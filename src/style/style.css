@@ -1,0 +1,57 @@
+body{
+  padding: 50px;
+  font-family: 'Roboto', sans-serif;
+  background-color: #F5F5F5;
+}
+/*Sign In Form*/
+.container{
+  position: relative;
+  height: auto;
+  width: 500px;
+  margin: auto;
+  box-shadow: 0px 30px 125px -5px #000;}
+
+.textfield{
+   
+    margin: 10px;
+  
+}
+
+i{
+  font-size: 10px;
+  color: red;
+}
+
+h2 {
+  padding-left: 15px;
+  font-size: 25px;
+  text-transform: uppercase;
+  display: inline-block;
+  font-weight: 300;
+}
+
+
+.form-section{
+  padding: 70px 90px 70px 90px;
+}
+.link{
+  cursor: pointer;
+  color: blue;
+}
+.margin{
+  margin-left: 10px;
+}
+
+.btn {
+  background-color: #f4511e;
+  border: none;
+  color: white;
+  padding: 10px 40px;
+  text-align: center;
+  font-size: 16px;
+  opacity: 0.5;
+  transition: 0.3s;
+  margin-left: 10px;
+}
+
+.btn:hover {opacity: 1}
